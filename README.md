@@ -28,14 +28,14 @@
 
 ## 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiga7740&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raiga7740&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -57,7 +57,7 @@
 
 ## 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=raiga7740&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
