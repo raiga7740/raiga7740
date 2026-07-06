@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 - 💻 Web Developer  
-- 🚀 Currently learning Frontend  
+- 🚀 Currently learning Fullstack
 - 🎯 Focus: Laravel, Node.js, API  
 - ⚡ Fun fact: I love building cool stuff  
 
