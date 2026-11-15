@@ -26,20 +26,6 @@
 
 ---
 
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiga7740&layout=compact&theme=tokyonight&langs_count=6&hide=html,css" />
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raiga7740&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,laravel,react,nodejs,html,css,mysql,git,github" />
