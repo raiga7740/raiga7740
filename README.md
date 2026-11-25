@@ -9,7 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xEWB505DvNmso/giphy.gif" width="280" alt="Animated GIF" />
+  <img
+    src="https://media.giphy.com/media/xEWB505DvNmso/giphy.gif"
+    width="420"
+    alt="Raiga animated profile GIF"
+  />
 </p>
 
 ---
