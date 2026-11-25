@@ -18,25 +18,33 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide/user-round.svg?color=%2300D9FF" width="19" height="19" valign="middle" /> About Me
+### <img src="https://api.iconify.design/lucide/user-round.svg?color=%2300D9FF" width="24" height="24" valign="middle" /> About Me
 
 I'm a developer who enjoys exploring technology and building things for the web.
 
 <table>
   <tr>
-    <td width="30"><img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300D9FF" width="30" /></td>
+    <td width="48" align="center">
+      <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2300D9FF" width="28" height="28" />
+    </td>
     <td>Currently learning <b>Fullstack Development</b></td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide/code-2.svg?color=%2300D9FF" width="30" /></td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide/code-2.svg?color=%2300D9FF" width="28" height="28" />
+    </td>
     <td>Working with <b>Laravel, JavaScript & APIs</b></td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide/rocket.svg?color=%2300D9FF" width="30" /></td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300D9FF" width="28" height="28" />
+    </td>
     <td>Interested in building useful applications</td>
   </tr>
   <tr>
-    <td><img src="https://api.iconify.design/lucide/lightbulb.svg?color=%2300D9FF" width="30" /></td>
+    <td align="center">
+      <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%2300D9FF" width="28" height="28" />
+    </td>
     <td>Always learning and experimenting with new technologies</td>
   </tr>
 </table>
