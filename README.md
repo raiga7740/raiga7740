@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/xEWB505DvNmso/giphy.gif"
+    src="https://i.giphy.com/FcF5O3An5x5z9Lw7q9.gif"
     width="420"
     alt="Raiga animated profile GIF"
   />
